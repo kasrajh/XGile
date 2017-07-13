@@ -18,7 +18,7 @@ namespace Calculator.Service
     public enum Operation
     {
         sum = 1 ,
-        subtract = 2,
+        subtract = 2
 
     }
 }
