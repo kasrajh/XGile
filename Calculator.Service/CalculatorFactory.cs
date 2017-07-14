@@ -8,10 +8,10 @@ namespace Calculator.Service
 {
     public static class CalculatorFactory
     {
-        public ICalculator Get()
-        {
+    //    public ICalculator Get()
+      //  {
 
-        }
+        //}
 
     }
 
@@ -19,6 +19,9 @@ namespace Calculator.Service
     {
         sum = 1 ,
         subtract = 2
+            
 
     }
+
+    //jkpiopiop[
 }
