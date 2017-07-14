@@ -10,7 +10,7 @@ namespace Calculator.Service
     {
         public decimal Calculate(decimal number1, decimal number2)
         {
-            throw new NotImplementedException();
+            return number1 + number2;
         }
     }
 }
