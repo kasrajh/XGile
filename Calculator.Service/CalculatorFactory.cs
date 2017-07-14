@@ -13,13 +13,14 @@ namespace Calculator.Service
 
         //}
         //cfd
-        
+        test
     }
 
     public enum Operation
     {
         sum = 1 ,
-        subtract = 2
+        subtract = 2,
+        division = 3
 
     }
 }
