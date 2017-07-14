@@ -80,7 +80,7 @@ namespace Calculator.Service.Test
         }
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
-        public void returnexceptionforzero()
+        public void ReturnExceptionForZero()
         {
             //arrange 
             var number1 = 0;

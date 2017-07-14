@@ -55,6 +55,7 @@
     <Compile Include="SumTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="MultiplyTest.cs" />
+    <Compile Include="AddStringGroup1Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Calculator.Service\Calculator.Service.csproj">
