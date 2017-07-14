@@ -8,19 +8,20 @@ namespace Calculator.Service
 {
     public static class CalculatorFactory
     {
-        //public static ICalculator Get()
-        //{
+    //    public ICalculator Get()
+      //  {
 
         //}
         //cfd
-        test
+        
     }
 
     public enum Operation
     {
         sum = 1 ,
-        subtract = 2,
-        division = 3
+        subtract = 2
 
     }
+
+    //jkpiopiop[
 }
