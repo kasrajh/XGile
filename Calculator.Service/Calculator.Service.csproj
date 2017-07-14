@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="CalculatorFactory.cs" />
     <Compile Include="ICalculator.cs" />
+    <Compile Include="Multiply.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sum.cs" />
   </ItemGroup>
