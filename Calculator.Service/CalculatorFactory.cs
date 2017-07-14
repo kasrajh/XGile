@@ -8,10 +8,10 @@ namespace Calculator.Service
 {
     public static class CalculatorFactory
     {
-        public ICalculator Get()
-        {
+        //public static ICalculator Get()
+        //{
 
-        }
+        //}
 
     }
 
